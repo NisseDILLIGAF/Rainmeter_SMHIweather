@@ -1,0 +1,1 @@
+Rainmeter skin to get current weather, temp and 10 hours forecast from smhi.se
